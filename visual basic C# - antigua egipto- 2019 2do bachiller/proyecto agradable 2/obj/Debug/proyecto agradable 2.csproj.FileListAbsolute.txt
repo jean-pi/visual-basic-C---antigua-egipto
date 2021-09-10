@@ -1,0 +1,24 @@
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto agradable 2.csprojAssemblyReference.cache
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form1.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Properties.Resources.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto agradable 2.csproj.GenerateResource.cache
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto agradable 2.csproj.CoreCompileInputs.cache
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\bin\Debug\proyecto agradable 2.exe.config
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\bin\Debug\proyecto agradable 2.exe
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\bin\Debug\proyecto agradable 2.pdb
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form2.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto agradable 2.exe
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto agradable 2.pdb
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form3.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form4.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form5.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form6.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form7.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form8.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form9.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form10.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form11.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form12.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form13.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form14.resources
+C:\Users\MIES_12D03_#32\Pictures\PROGRAMACION 2019 2do M\2do quimestre\2do parcial\proyecto agradable 2\proyecto agradable 2\obj\Debug\proyecto_agradable_2.Form15.resources

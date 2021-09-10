@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>El egipcio antiguo constituye una parte independiente de la lengua de la (macro) familia afro-asiática. Sus parientes más cercanos son los grupos bereber, semítico y Beja. Los documentos escritos más antiguos en lengua egipcia se han fechado en el 3200 a. C., haciéndola una de las más antiguas y documentadas. Los eruditos agrupan al egipcio en siete divisiones cronológicas importantes:</value>
+  </data>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>Es la lengua del Imperio Antiguo y del primer período intermedio. Los textos de las pirámides son el cuerpo mayor de la literatura de esta fase, escritos en las paredes de las tumbas de la aristocracia, que a partir de este período también muestran escrituras autobiográficas. Una de las características que lo distinguen es la triple mezcla de ideogramas, fonogramas, y de determinativos para indicar el plural. No tiene grandes diferencias con la etapa siguiente.</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Aparecen documentos de esta etapa en la segunda parte del Imperio Nuevo. Forman un amplio conjunto de textos de literatura religiosa y secular, abarcando ejemplos famosos tales como la historia de Unamón (Wenamun) y las instrucciones del Ani. Era la lengua de la administración ramésida. No es totalmente distinto del egipcio medio, ya que aparecen muchos clasicismos en los documentos históricos y literarios de esta fase, sin embargo, la diferencia entre el clásico y el tardío es mayor que entre aquél y el antiguo. También representa mejor la lengua hablada desde el Imperio Nuevo. La ortografía jeroglífica consiguió una gran expansión de su inventario gráfico entre el periodo Tardío y el Ptolemaico.</value>
+  </data>
+  <data name="textBox5.Text" xml:space="preserve">
+    <value>Aparecen documentos de esta etapa en la segunda parte del Imperio Nuevo. Forman un amplio conjunto de textos de literatura religiosa y secular, abarcando ejemplos famosos tales como la historia de Unamón (Wenamun) y las instrucciones del Ani. Era la lengua de la administración ramésida. No es totalmente distinto del egipcio medio, ya que aparecen muchos clasicismos en los documentos históricos y literarios de esta fase, sin embargo, la diferencia entre el clásico y el tardío es mayor que entre aquél y el antiguo. También representa mejor la lengua hablada desde el Imperio Nuevo. La ortografía jeroglífica consiguió una gran expansión de su inventario gráfico entre el periodo Tardío y el Ptolemaico.</value>
+  </data>
+  <data name="textBox6.Text" xml:space="preserve">
+    <value>La lengua demótica es cronológicamente la última, se comenzó a usar alrededor del 660 a. C. y se convirtió en la escritura dominante cerca del 600 a. C., usándose con fines económicos y literarios. En contraste con el hierático, que solía escribirse en papiros u ostracas, el demótico se grababa además en piedra y madera.
+En los textos escritos en etapas anteriores, probablemente representó el idioma hablado de la época. Pero al ser utilizada cada vez más solamente con propósitos literarios y religiosos, la lengua escrita divergió cada vez más de la forma hablada, dando a los últimos textos demóticos un carácter artificial, similar al uso del egipcio medio clásico durante el período Ptolemaico. A inicios del siglo IV comenzó a ser reemplazado por el idioma griego en los textos oficiales: el último uso que se conoce es en el año 452 d. C., sobre los muros del templo dedicado a Isis, en File. Comparte mucho con la lengua copta posterior.</value>
+  </data>
+  <data name="textBox7.Text" xml:space="preserve">
+    <value>Fue el idioma de la corte tras la conquista de Alejandro, el dialecto koiné, "lengua común", que era una variante del ático utilizada en el mundo helenístico, y que en Egipto convivió con el copto empleado por el pueblo llano.</value>
+  </data>
+  <data name="textBox8.Text" xml:space="preserve">
+    <value>Está testimoniado alrededor del siglo III, y aparece escrito con signos jeroglíficos, o en los alfabetos hierático y demótico. El alfabeto copto es una versión ligeramente modificada del alfabeto griego, con algunas letras propias demóticas utilizadas para representar varios sonidos no existentes en el griego. Como lengua cotidiana tuvo su apogeo desde el siglo III hasta el siglo VI, y perdura solo como lengua litúrgica de la Iglesia Ortodoxa Copta tras ser sustituido por el árabe en época islámica.</value>
+  </data>
+</root>

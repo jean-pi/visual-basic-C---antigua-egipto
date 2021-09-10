@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>La Historia de Unamón, también conocida con el nombre de las Aventuras de Unamón, o simplemente Unamón (Wenamun), es un texto egipcio escrito en hierático tardío. Se conoce este documento por una copia, incompleta, encontrada en 1890 en al-Hibah, en Egipto. Comprado en El Cairo por el egiptólogo ruso Vladimir Semyonovich Golenishchev,1​ el papiro se depositó más adelante en la colección del Museo Pushkin, en Moscú, titulado oficialmente Papiro Pushkin 120. El texto hierático se publicó en 1960 en Korostovcev, y el texto jeroglífico fue publicado por primera vez en 1932 por Alan Gardiner.
+El texto se sitúa en el año 5, probablemente el quinto año de «renacimiento» del faraón Ramsés XI, el décimo y último rey de la dinastía XX - período que corresponde al año 19 de su reinado. Egberts (1991) sugirió la hipótesis de que se trataba del quinto año de reinado de Esmendes I, el primer rey de la dinastía XXI. Esta teoría supone que el Sumo sacerdote Herihor sucedió a Pianjy (pero con orden normalmente invertido), y no encontró gran entusiasmo entre los egiptólogos.
+
+La historia comienza con la presentación del personaje principal, Unamón, sacerdote de Amón en Karnak. El Gran sacerdote Herihor le pide viajar a Biblos, ciudad fenicia, para encontrar madera (probablemente de cedro) para construir un nuevo barco sagrado con el fin de transportar en procesión a Amón. Después de haber visitado a Semenedes I, en Tanis, Unamón se detiene en el puerto de Dor, gobernado por el príncipe Beder de los Tyeker, (en egipcio tkr o skl, que se transscribe también como Tjekru, Sikil, Djekker o Sical) uno de los Pueblos del mar
+
+Unamón fue desvalijado durante esta corta pausa. Al llegar a Biblos, Unamón se asombró con la recepción que se le hizo. Después de haber conseguido audiencia con el rey Zakar-Baal, este último se negó a que le entregasen la madera pedida, pidiendo al contrario que el sacerdote pagase para obtenerla - una práctica contraria a la tradición. Unamón entonces tuvo que pedir a Esmendes más oro, un gesto humillante. Después de alrededor de un año de espera en Biblos, Unamón intentó dejar Egipto, pero el viento lo arrastró a Alashiya (Chipre), donde quisieron matarlo, antes de recibir la protección de la reina Hatbi. La historia se detiene aquí, aunque Unamón probablemente retornó a Egipto después de sus aventuras.</value>
+  </data>
+</root>

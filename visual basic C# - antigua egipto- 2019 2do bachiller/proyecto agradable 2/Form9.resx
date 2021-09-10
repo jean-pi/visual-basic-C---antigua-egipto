@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Durante años, la inscripción conocida más antigua era la Paleta de Narmer, encontrada durante excavaciones en Hieracómpolis (nombre actual, Kom el-Ahmar) en 1890, datada en el 3150 a. C. Hallazgos arqueológicos recientes revelan que los símbolos grabados en la cerámica de Gerzeh, del año 3250 a. C., se asemejan al jeroglífico tradicional. En 1998 un equipo arqueológico alemán bajo el mando de Günter Dreyer, que excavaba la tumba U-j en la necrópolis de Umm el-Qaab de Abidos, que perteneció a un rey del predinástico, recuperó trescientos rótulos de arcilla inscritos con jeroglíficos y fechados en el período de Naqada III-a, en el siglo XXXIII a. C.11
+Según investigaciones, la escritura egipcia apareció hacia el 3000 a. C. con la unificación del Reino del Alto y Bajo Egipto y el advenimiento del Estado. Durante largo tiempo solo estuvo compuesta por unos mil signos, los jeroglíficos, que representaban personas, animales, plantas, objetos estilizados etc. Su número no llegó a alcanzar varios miles hasta el periodo tardío.12​
+
+Los egiptólogos definen al sistema egipcio como jeroglífico, y se considera como la escritura más antigua del mundo. La denominación proviene del griego "hieros" (sagrado) y "glypho" (esculpir, grabar). Era en parte silábica, en parte ideográfica. La hierática fue una forma cursiva de los jeroglíficos y comenzó a utilizarse durante la primera dinastía (c. 2925-2775 a. C.). El término demótico, en el contexto egipcio, se refiere a la escritura y a la lengua que evolucionó durante el periodo tardío, es decir desde la 25.ª dinastía Nubia, hasta que fue desplazada en la corte por el Koiné griego en las últimas centurias a. C. Después de la conquista por Amr ibn al-As en el año 640, el idioma egipcio perduró en la lengua copta durante la Edad Media.
+
+Alrededor del 2700 a. C., se comenzaron a usar pictogramas para representar sonidos consonantes. Sobre el 2000 a. C., se usaban 26 para representar los 24 sonidos consonantes principales. El más antiguo alfabeto conocido (c. 1800 a. C.) es un sistema abyad derivado de esos signos unilíteros, igual que otros jeroglíficos egipcios.​
+La escritura jeroglífica finalmente cayó en desuso como escritura de los cortesanos alrededor del siglo IV a. C, bajo los ptolomeos, sustituida por el griego, aunque perduró en los templos del Alto Egipto, custodiados por el clero egipcio. Cleopatra VII fue la única gobernante ptolemaica que dominó el idioma egipcio antiguo. Las tentativas de los europeos para descifrarla comenzaron en el siglo XV, aunque hubo tentativas anteriores por parte de eruditos árabes.</value>
+  </data>
+</root>

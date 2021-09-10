@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox12.Text" xml:space="preserve">
+    <value>El 30 de julio del año 30 a. C., Octavio entró en Alejandría, liquidando definitivamente la independencia política de Egipto y convirtiéndolo en provincia romana.
+Pasó a sus sucesores el Imperio bizantino después que el Imperio romano fuera repartido el año 395 en Occidente y Oriente, y permaneció en sus manos hasta la conquista por el pueblo árabe del año 640. Los últimos vestigios de la tradicional cultura del Antiguo Egipto finalizan definitivamente a comienzos del siglo VI, con los últimos sacerdotes de Isis, que oficiaban el templo de la isla de File, al proscribirse el culto a los "dioses paganos".</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Los primeros pobladores de Egipto alcanzaron las riberas del río Nilo, por entonces un conglomerado de marismas y foco de paludismo, en su huida de la creciente desertización del Sáhara.
+çSe sabe por los restos arqueológicos que antiguamente el Sáhara tenía un clima mediterráneo, más húmedo que el actual. En los macizos del Ahaggar y el Tibesti había abundante vegetación. Para aquellos pobladores, el Sáhara sería una extensa estepa con grandes herbívoros que cazar. Las culturas saharianas son, en gran medida, desconocidas, pero no por ello inexistentes.
+
+Las sucesivas fases del neolítico están representadas por las culturas de El Fayum, hacia el 5000 a. C., la cultura tasiense, hacia el 4500 a. C. y la cultura de Merimde, hacia el 4000 a. C. Todas ellas conocen la piedra pulimentada, la cerámica, la agricultura y la ganadería. La base de la economía era la agricultura que se realizaba aprovechando el limo, fertilizante natural que aportaban las anuales inundaciones del río Nilo.
+
+
+Vasija de terracota con forma de ave (Naqada II).
+Louvre.
+Tras estas culturas aparecieron la badariense y la amratiense o Naqada I, entre 4000 y 3800 a. C.
+
+Hacia el año 3600 a. C. surge la gerzeense o Naqada II, que se difunde por todo Egipto, unificándolo culturalmente. Esta consonancia cultural llevará a la unidad política, que surgirá tras un periodo de luchas y alianzas entre clanes para imponer su supremacía.
+
+Para lograr mayor eficacia y producción, hacia 3500 a. C., comenzaron a realizarse las primeras obras de canalización y surge la escritura con jeroglíficos en Abidos. En esta época comenzaron los proto-estados:
+Las primeras comunidades hicieron habitable el país y se organizaron en regiones llamadas nomos. Los habitantes del Delta tenían una organización feudal y llegaron a establecer dos reinos con dos jefes o monarcas respectivamente. Un reino estaba asentado en un lugar pantanoso, que se llamaba reino del Junco y tenía como símbolo un tallo de junco. Su capital era Buto; tenían a una cobra como tótem. El otro reino tenía como capital a Busiris y como tótem un buitre pero su símbolo era una abeja y llegó a conocerse como reino de la Abeja. Ambos reinos estaban separados por un brazo del río Nilo.</value>
+  </data>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>Considerado la fase final del periodo predinástico, también conocido como dinastía 0, predinástico tardío, o periodo Naqada III. Está regido por gobernantes del Alto Egipto que residirán en Tinis, se hacen representar con un serej y adoran a Horus. El nombre de estos reyes figura en la Piedra de Palermo, grabada 700 años después. En este periodo surgen las primeras auténticas ciudades, tales como Tinis, Nubet, Nejeb, Nejen, etc. Son típicos de esta época los magníficos vasos tallados en piedra, cuchillos y paletas ceremoniales, o las cabezas de mazas votivas. Narmer pudo ser el último rey de esta época, y el fundador de la dinastía I</value>
+  </data>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>A finales del periodo predinástico, Egipto se encontraba dividido en pequeños reinos; los principales eran: el de Hieracómpolis (Nejen) en el Alto Egipto y el de Buto (Pe) en el Bajo Egipto. El proceso de unificación fue llevado a cabo por los reyes de Hieracómpolis.
+La tradición egipcia atribuyó la unificación a Menes, quedando esto reflejado en las Listas Reales. Este personaje es, según Alan Gardiner, el rey Narmer, el primer faraón del cual se tiene constancia que reinó sobre todo Egipto, tras una serie de luchas, tal como quedó atestiguado en la paleta de Narmer. Este periodo lo conforman las dinastías I y II.</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Bajo la dinastía III la capital se estableció definitivamente en Menfis, de donde procede la denominación del país, ya que el nombre del principal templo, Hat Ka Ptah "casa del espíritu de Ptah", que pasó al griego como Aegyptos, con el tiempo designó primero al barrio en el que se encontraba, luego a toda la ciudad y más tarde al reino.
+En la época de la tercera dinastía comenzó la costumbre de erigir grandes pirámides y monumentales conjuntos en piedra, gracias al faraón Dyeser. También las grandes pirámides de Guiza, atribuidas a los faraones Keops, Kefrén y Micerino se datan en este periodo.
+
+La dinastía V marca el ascenso del alto clero y los influyentes gobernadores locales (nomarcas), y durante el largo reinando de Pepy II se acentuará una época de fuerte descentralización, denominada primer periodo intermedio de Egipto. El Imperio Antiguo comprende las dinastías III a VI.</value>
+  </data>
+  <data name="textBox5.Text" xml:space="preserve">
+    <value>Fue una época donde el poder estaba descentralizado y transcurre entre el Imperio Antiguo y el Imperio Medio. Comprende desde la Dinastía VII hasta mediados de la Dinastía XI, cuando Mentuhotep II reunificó el país bajo su mando. A pesar de la decadencia, esta época destacó por un gran florecimiento literario, con textos doctrinales o didácticos, que muestran el gran cambio social. El importante cambio de mentalidad, así como del crecimiento de las clases medias en las ciudades originó una nueva concepción de las creencias, reflejándose en la aparición de los denominados Textos de los Sarcófagos. Osiris se convirtió en la divinidad más popular, con Montu y Amón. Los nomos de Heracleópolis y Tebas se constituyeron como hegemónicos, imponiéndose finalmente este último. Son las dinastías VII a XI.</value>
+  </data>
+  <data name="textBox6.Text" xml:space="preserve">
+    <value>Se considera que se inicia con la reunificación de Egipto bajo Mentuhotep II. Es un periodo de gran prosperidad económica y expansión exterior, con faraones pragmáticos y emprendedores. Este periodo lo conforma el final de la dinastía XI y la XII.
+Se realizaron ambiciosos proyectos de irrigación en El Fayum, para regular las grandes inundaciones del Nilo (Provocadas por las grandes masas de agua del mar Mediterráneo evaporadas en los desiertos cercanos al imperio), desviándolo hacia el lago Moeris (El Fayum). También se potenciaron las relaciones comerciales con las regiones circundantes: africanas, asiáticas y mediterráneas. Las representaciones artísticas se humanizaron, y se impuso el culto al dios Amón. A mediados de 1800 a. C., los dirigentes hicsos vencieron a los faraones egipcios; lo que comenzó como una migración paulatina de libios y cananeos hacia el delta del Nilo, se transformó con el tiempo en conquista militar de casi todo el territorio egipcio, originando la caída del Imperio Medio. Los hicsos vencieron porque poseían mejores armas, y supieron utilizar el factor sorpresa.</value>
+  </data>
+  <data name="textBox7.Text" xml:space="preserve">
+    <value>Durante gran parte de este periodo dominaron Egipto los gobernantes hicsos, jefes de pueblos nómadas de la periferia, especialmente libios y asiáticos, que se establecieron en el delta, y tuvieron como capital la ciudad de Avaris. Finalmente, los dirigentes egipcios de Tebas declararon la independencia, siendo denominados la dinastía XVII. Proclamaron la "salvación de Egipto" y dirigieron una "guerra de liberación" contra los hicsos. Fueron las dinastías XIII a XVII, parcialmente coetáneas.</value>
+  </data>
+  <data name="textBox8.Text" xml:space="preserve">
+    <value>Es un periodo de gran expansión exterior, tanto en Asia —donde llegan al Éufrates— como en Kush (Nubia). La dinastía XVIII comenzó con una serie de faraones guerreros, desde Amosis I hasta Tutmosis III y Tutmosis IV. Bajo Amenofis III se detuvo la expansión y se inició un período de paz interna y externa.
+Después de un período de debilidad monárquica, llegaron al poder las castas militares, la dinastía XIX o Ramésida que, fundamentalmente bajo Seti I y Ramsés II, se mostró enérgica contra los expansionistas reyes hititas.
+
+Durante los reinados de Merenptah, sucesor de Ramsés II, y Ramsés III, de la dinastía XX, Egipto tuvo que enfrentarse a las invasiones de los Pueblos del Mar, originarios de diversas áreas del Mediterráneo oriental (Egeo, Anatolia), y de los libios.
+Alrededor de 1279 a. C. ascendió al trono Ramsés II, también conocido como el Grande. El suyo sería uno de los reinados más largos de la historia egipcia. Mandó construir más templos, más estatuas y obeliscos, y engendrar más hijos que cualquier otro faraón. Audaz líder militar, Ramsés II condujo su ejército contra los hititas en la batalla de Kadesh (en la actual Siria); después de llegar a un punto muerto, finalmente aceptó un tratado de paz con el reino hitita. Es el tratado de paz más antiguo registrado, en torno a 1258 antes de Cristo. Egipto se retiró de la mayor parte de sus posesiones asiáticas dejando a los hititas competir, sin éxito, con el creciente poder emergente de Asiria y los recién llegados frigios.
+
+La riqueza de Egipto, sin embargo, se había convertido en un objetivo tentador para la invasión; en particular, para los libios beduinos del oeste y los Pueblos del Mar, que formaban parte de la poderosa confederación de piratas griegos del mar Egeo. Inicialmente, el ejército fue capaz de repeler las invasiones, pero Egipto terminó por perder el control de sus territorios en el sur de Siria y Palestina, que en gran parte cayeron en poder de los asirios e hititas. El impacto de las amenazas externas se vio agravado por problemas internos como la corrupción, el robo de las tumbas reales y los disturbios populares. Después de recuperar su poder, los sumos sacerdotes del templo de Amón en Tebas habían acumulado vastas extensiones de tierra y mucha riqueza, debilitando al Estado. El país terminó dividido, dando inicio al Tercer Periodo Intermedio.</value>
+  </data>
+  <data name="textBox9.Text" xml:space="preserve">
+    <value>Comienza con la instauración de dos dinastías de origen libio que se repartieron Egipto: una, desde Tanis, la bíblica Zoán, en el Bajo Egipto, y otra, cuyos reyes tomaron el título de Sumos sacerdotes de Amón, desde Tebas. El periodo termina con la dominación de los reyes Cushitas. Son las dinastías, parcialmente coetáneas, XXI a XXV.</value>
+  </data>
+  <data name="textBox10.Text" xml:space="preserve">
+    <value>Comienza con la dinastía Saíta, sigue una dinastía nubia, un intento de invasión asirio y con dos periodos de dominación persa, así como con varias dinastías coetáneas de gobernantes egipcios independientes. Egipto se convirtió finalmente en una satrapía. Son las dinastías XXVI a XXXI.</value>
+  </data>
+  <data name="textBox11.Text" xml:space="preserve">
+    <value>Se inicia con la conquista de Egipto por Alejandro Magno de Macedonia en 332 a. C., y la llegada al poder en 305 a. C. de la dinastía ptolemaica, de origen macedonio. Finaliza con la incorporación de Egipto al Imperio romano tras la batalla de Actium, en el año 31 a. C. En el año 30 a. C. muere Cleopatra y Egipto se convierte en una provincia del Imperio romano.</value>
+  </data>
+</root>

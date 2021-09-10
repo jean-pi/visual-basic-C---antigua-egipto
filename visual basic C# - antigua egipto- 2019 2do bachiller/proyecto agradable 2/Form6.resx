@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Las evidencias arqueológicas indican que la civilización egipcia comenzó alrededor del VI milenio a. C., durante el Neolítico, cuando se asentaron los primeros pobladores (véase el periodo predinástico). El río Nilo, en torno al cual se asienta la población, ha sido la línea de referencia para la cultura egipcia desde que los nómadas cazadores-recolectores comenzaron a vivir en sus riberas durante el pleistoceno. Los rastros de estos primeros pobladores quedaron en los objetos y signos grabados en las rocas a lo largo del valle del Nilo y en los oasis.
+A lo largo del Nilo, en el XI milenio a. C., una cultura de recolectores de grano había sido sustituida por otra de cazadores, pescadores y recolectores que usaban herramientas de piedra. Los estudios también indican asentamientos humanos en el sudoeste de Egipto, cerca de la frontera con Sudán, antes del 8000 a. C. La evidencia geológica y estudios climatológicos sugieren que los cambios del clima, alrededor del 8000 a. C., comenzaron a desecar las tierras de caza y pastoreo de Egipto, conformándose paulatinamente el desierto del Sáhara. Las tribus de la región tendieron a agruparse cerca del río, en donde surgieron pequeños poblados que desarrollaron una economía agrícola. Hay evidencias de pastoreo y del cultivo de cereales en el este del Sáhara en el VII milenio a. C.
+
+Alrededor del 6000 a. C., ya había aparecido en el valle del Nilo la agricultura organizada y la construcción de grandes poblados. Al mismo tiempo, en el sudoeste se dedicaban a la ganadería y también construían. El mortero de cal se usaba en el 4000 a. C. Es el denominado periodo predinástico, que empieza con la cultura de Naqada.
+
+Entre el 5500 y el 3100 a. C., durante el Predinástico, los asentamientos pequeños prosperaron a lo largo del Nilo. En el 3300 a. C., momentos antes de la primera dinastía, Egipto estaba dividido en dos reinos, conocidos como Alto Egipto Ta Shemau y Bajo Egipto Ta Mehu.9​ La frontera entre ambos se situaba en la actual zona de El Cairo, al sur del delta del Nilo.
+
+La historia de Egipto, como Estado unificado, comienza alrededor del 3050 a. C. Menes (Narmer), que unificó el Alto y el Bajo Egipto, fue su primer rey. La cultura y costumbres egipcias fueron notablemente estables y apenas variaron en casi 3000 años, incluyendo religión, expresión artística, arquitectura y estructura social.
+
+La cronología de los reyes egipcios da comienzo en esa época. La cronología convencional es la aceptada durante el siglo XX, sin incluir cualquiera de las revisiones que se han hecho en ese tiempo. Incluso en un mismo trabajo, los arqueólogos ofrecen a menudo, como posibles, varias fechas e incluso varias cronologías, y por ello puede haber discrepancias entre las fechas mostradas en las distintas fuentes. También se dan varias posibles transcripciones de los nombres. Tradicionalmente la egiptología clasifica la historia de la civilización faraónica dividida en dinastías, siguiendo la estructura narrativa de los epítomes de la Aigyptiaká (Historia de Egipto), del sacerdote egipcio Manetón.</value>
+  </data>
+</root>
